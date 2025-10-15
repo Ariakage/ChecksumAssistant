@@ -24,3 +24,7 @@ This program supports the following checksum type:
 - [x] SHA1
 - [x] SHA256
 - [x] CRC32
+
+### Support Me
+Please light up the Star.
+![Stargazers over time](https://starchart.cc/ariakage/checksumassistant.svg)
